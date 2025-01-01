@@ -39,7 +39,9 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/44f34e9f-afb7-455a-9c95-fdc10c0ef47a)
+![image](https://github.com/user-attachments/assets/44f34e9f-afb7-455a-9c95-fdc10c0ef47a) 
+
+
 ![image](https://github.com/user-attachments/assets/362ba0ae-1e18-4685-b6e4-66abb1713aee)
 
 
